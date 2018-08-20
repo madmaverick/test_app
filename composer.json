@@ -1,5 +1,5 @@
 {
-    "name": "sergesoft/test-app-basic",
+    "name": "sergesoft/test_app",
     "description": "Test task",
     "keywords": ["yii2", "framework", "basic", "project template"],
     "homepage": "http://www.yiiframework.com/",
